@@ -1,0 +1,17 @@
+Description:
+
+First lab meeting of the semester, we will be meeting our TAs
+and descrive the current status of our project.
+
+Current Issues:
+None
+
+Newly Discovered Problems:
+None
+
+Solutions:
+None
+
+Short-term Milestones:
+Begin software integration
+Get part list approved
