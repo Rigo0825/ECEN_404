@@ -2,11 +2,9 @@
 
 ## Team 18 - Photometer ##
 
-Members:
-
- Rigoberto Olivares
- Richard Lopez
- Hunter Cothran
+* Rigoberto Olivares
+* Richard Lopez
+* Hunter Cothran
 
 ## Introduction ##
 
