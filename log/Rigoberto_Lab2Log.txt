@@ -1,0 +1,17 @@
+Description:
+
+Second lab meeting of the semester, I will discuss my current progress and issues
+with the TA and work on progressing with the project.
+
+Current Issues:
+No response from our professor regarding the part order list aproval.
+
+Newly Discovered Problems:
+None
+
+Solutions:
+Ask our TA during the lab session if he can get our parts approved.
+
+Short-term Milestones:
+Order needed parts
+Continue working on software integration (do a small test for interrupts)
