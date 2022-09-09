@@ -1,0 +1,24 @@
+Description:
+
+This was the third lab for ECEN-404. This was the week of the Career Fair and our first presentation update. On Tuesday I drove out to A&M's observatory and
+met with Don, our customer and I discussed with him various design considerations we proceed with respect to the shell and methods by which it is 
+secured to the telescope (via standardized female M42 threading). Don recommended me to use a female TPO M42 10mm spacer extension which will need to attach
+to the shell. Our options are to purchase and gut an existing astronomy/telescope device, or manufacture our own polymer shell, likely dremeling a hole
+and attached the threading with some binding agent/glue.
+Max Lesser, our sponsor/TA, was CC'd in my email exchange with Don.
+
+Current Issues for my Subsystem:
+Photometer shell considerations (WRT best methods and practices to securely fashion a metal female m42 threading to a polymer housing unit), Light Path and Securing of photodiode
+within the shell, and Integration considerations with Richard's subsystem (PCB vs Protoboard; his system reads my voltage and sends 2bit signal to MUX)
+
+Newly Discovered Problems:
+-Out of an abundance of caution, I am testing our previously purchased photodiodes with a known, legitimate S-1087-01 photodiode in order to verify 
+expected behaviors
+-Given the extreme temperatures the observatory can reach more 
+
+Solutions:
+Research and discuss progress with shell, as well, keep our customer and TA updated with issues encountered
+
+Short-term Milestones:
+Meeting with Don was very productive and we learned exactly what parts we need to secure, as well, Don is providing to us a legitimate 
+S-1087-01 photodiode and also clarified a misunderstanding we had about how Integration is measured
