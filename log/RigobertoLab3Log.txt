@@ -1,0 +1,19 @@
+Description:
+
+Third lab meeting of the semester, I will discuss my current progress and issues
+with the TA and work on progressing with the project.
+
+Current Issues:
+Need to quickly figure out how the interrupt module works and implement it.
+
+Newly Discovered Problems:
+None
+
+Solutions:
+Get interrupt done during the lab session.
+
+Short-term Milestones:
+Validate power supply
+Implement interrupts
+Get Altium
+Continue working on software integration (do a small test for interrupts)
