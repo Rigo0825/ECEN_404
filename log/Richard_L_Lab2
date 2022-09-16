@@ -1,0 +1,10 @@
+Second lab for ECEN404
+
+Goals: 
+Soldering the 7 segment LED 5 digit in order to incorporate SPI transfer protocol
+
+Issues: 
+None at the moment 
+
+Goals for the week:
+Figuring out how to use SPI transfer protocol and figure out how to use ALtium
