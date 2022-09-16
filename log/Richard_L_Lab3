@@ -1,0 +1,10 @@
+Issues:
+Don't know how to incorperate footprint
+SPI isn't wokring as expected and needs more time to figure out how to make it work
+
+Goals this lab:
+Work on the SPI transfer protocol and get it to turn on
+
+Goals this week:
+Finish the PCB schematic and finish the PCB itself, Get SPI working or at least close to it
+
