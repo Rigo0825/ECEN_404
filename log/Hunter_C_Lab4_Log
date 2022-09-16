@@ -1,1 +1,16 @@
+Description:
 
+This was the fourth lab for ECEN-404. 
+
+Current Issues for my Subsystem:
+Photometer shell considerations have been resolved, Light Path and Securing of photodiode within the shell are next to consider,
+and Integration considerations with Richard's subsystem (PCB vs Protoboard; his system reads my voltage and sends 2bit signal to MUX) remain
+
+Newly Discovered Problems:
+I have a prototype M42 spacer ring and prototype plastic enclosure but the finalized products are being shipped
+
+Solutions:
+Research and discuss progress with shell, as well, keep our customer and TA updated with issues encountered
+
+Short-term Milestones:
+I have received a legitimate photodiode from Don to test and enclosure is being shipped
