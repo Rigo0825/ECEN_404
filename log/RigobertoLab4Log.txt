@@ -1,0 +1,18 @@
+Description:
+Fourth lab meeting of the semester, I will discuss my current progress and issues
+with the TA and work on progressing with the project.
+
+Current Issues:
+Cannot implement interrups together with UART. MCC implemented interrups can not handle
+more than one action per interrupt.
+
+Newly Discovered Problems:
+Need to provide -5V to Hunter's system.
+
+Solutions:
+Either implement desing sequentially or find more resources to implement interrupts from scratch.
+
+Short-term Milestones:
+Find alternate resources to implement interrupts
+Finish power supply Altium design
+Continue working on software integration
