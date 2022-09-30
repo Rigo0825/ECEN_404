@@ -1,0 +1,12 @@
+This lab we discussed what progress we did
+
+We are a little behind due to the pcb still being created and placing everything
+
+Issues:
+Was missing ground ports and power ports as well as photodiode implementation
+
+Goals by the end of this lab
+Desolder the ADC in order to test for SPI in the upcoming weeks
+
+Goals by the next week:
+Finish up the PCB and order a pcb and also get Hunter a measurement of the PCB for the chasis
