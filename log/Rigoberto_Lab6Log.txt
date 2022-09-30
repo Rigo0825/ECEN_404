@@ -1,0 +1,16 @@
+Description:
+Sixth lab meeting of the semester, I will discuss my current progress and issues
+with the TA and work on progressing with the project. I have finished the button
+input implementation from last week, now I need to finish implementing the display.
+
+Current Issues:
+Still behind in our project progress, we need to continue attemting to catch up.
+
+Newly Discovered Problems:
+None.
+
+Solutions:
+Dedicate more time to the integration of the software side of our project.
+
+Short-term Milestones:
+Finish implementing the photometer display.
