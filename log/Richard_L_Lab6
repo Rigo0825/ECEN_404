@@ -1,0 +1,8 @@
+Issues:
+SPI transfer to the output needs to be addressed
+
+Goals this lab:
+Measure out dimensions and make sure the pcb can fit in the chasis work on SPI and use the oscilliscope
+
+Goals for this upcoming week
+make sure the SPI is working and that the LED output is working
