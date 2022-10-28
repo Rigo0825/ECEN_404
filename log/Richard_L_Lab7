@@ -1,0 +1,8 @@
+Issues:
+SPI transfer still needs to needs to be addressed
+
+Goals this lab:
+Check the connections of the pcb and try to figure out SPI
+
+Goals for this upcoming week
+Figure out the SPI is working and that the LED output is working
