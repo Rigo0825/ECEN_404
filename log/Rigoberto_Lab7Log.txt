@@ -1,0 +1,17 @@
+Description:
+Seventh lab meeting of the semester, I will discuss my current progress and issues
+with the TA and work on progressing with the project. I am currently working on getting
+a working display for our photometer.
+
+Current Issues:
+Our display is currently not working.
+
+Newly Discovered Problems:
+My teammate's ADC isn't working. I will more than likely have to help him debug his
+system.
+
+Solutions:
+Dedicate more time get the Display working.
+
+Short-term Milestones:
+Finish implementing the photometer display.
