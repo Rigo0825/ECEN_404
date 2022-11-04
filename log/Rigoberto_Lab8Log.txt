@@ -1,0 +1,18 @@
+Description:
+Eith lab meeting of the semester, I will discuss my current progress and issues
+with the TA and work on progressing with the project. Our photometer now has a working
+display. This display has been tested to ensure it works in the correct range of values.
+
+Current Issues:
+My partern's ADC is still not working, I will have to take over his system and debug it.
+
+Newly Discovered Problems:
+PCB has some traces that are not connected from one layer to the other. This seems to be
+a manufacturing error.
+
+Solutions:
+Dedicate time to getting the ADC to work. Short traces from one layer of the PCB to the ohter
+using wires.
+
+Short-term Milestones:
+Debug the ADC using an oscilloscope.
