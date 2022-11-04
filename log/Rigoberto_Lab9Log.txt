@@ -1,0 +1,16 @@
+Description:
+Ninth lab meeting of the semester, I will discuss my current progress and issues
+with the TA and work on progressing with the project. Our photometer now has a working
+ADC. This ADC has been tested to ensure it works in the correct range of voltage inputs.
+
+Current Issues:
+Photodiode is not outputing the correct voltage values, we must debug the system.
+
+Newly Discovered Problems:
+More unconnected PCB traces were found. This should be a fixable issue.
+
+Solutions:
+Debug Photodiode system using a multimeter.
+
+Short-term Milestones:
+Debug the Photodiode.
