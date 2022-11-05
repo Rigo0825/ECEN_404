@@ -1,0 +1,17 @@
+Description:
+Tenth lab meeting of the semester, I will discuss my current progress and issues
+with the TA and work on progressing with the project. We have succesfully debuged
+the Photodiode system and the correct voltage reading are now being outputed onto 
+our display. At this point, our system is fully integrated.
+
+Current Issues:
+None.
+
+Newly Discovered Problems:
+None.
+
+Solutions:
+Keep working on testing for the software systems.
+
+Short-term Milestones:
+Test Protocol on the sofware side of the system.
