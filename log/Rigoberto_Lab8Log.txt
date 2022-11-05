@@ -1,5 +1,5 @@
 Description:
-Eith lab meeting of the semester, I will discuss my current progress and issues
+Eighth lab meeting of the semester, I will discuss my current progress and issues
 with the TA and work on progressing with the project. Our photometer now has a working
 display. This display has been tested to ensure it works in the correct range of values.
 
